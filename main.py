@@ -5,8 +5,8 @@ import asyncio
 import os, requests
 from threading import Thread, Lock
 
-token = 'BOT TOKEN HERE'
-webhookurl = 'WEBHOOKURL HERE'
+token = 'MTAyODc3MDYyNDE5MTA5MDc2OA.GNtvmG.n8sWw-nll42fIJyvUpU6-PTdi0ZA8J1sxj0Be0'
+webhookurl = 'https://discord.com/api/webhooks/1028770899773632653/zSaIwiCV4gE_lF9j9C_9LfqijS2SomfcawyMhNlMWvxu_eBGB6r385SkJCa1acfY3nPm'
 client = commands.Bot(command_prefix='.')
     
 @client.event
